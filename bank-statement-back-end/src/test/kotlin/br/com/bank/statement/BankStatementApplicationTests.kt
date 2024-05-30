@@ -1,10 +1,10 @@
-package br.com.despesas.pessoais
+package br.com.bank.statement
 
 import org.junit.jupiter.api.Test
 import org.springframework.boot.test.context.SpringBootTest
 
 @SpringBootTest
-class DespesasPessoaisApplicationTests {
+class BankStatementApplicationTests {
 
 	@Test
 	fun contextLoads() {
